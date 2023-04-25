@@ -23,6 +23,14 @@
 - 📄 Know about my experiences [https://rohanhandore.github.io/portfolio/assets/cv/Rohan-Handore-cv_2.pdf](https://rohanhandore.github.io/portfolio/assets/cv/Rohan-Handore-cv_2.pdf)
 
 <h3 align="left">Connect with me:</h3>
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/rohan-handore-4786b3233/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="[your-twitter-URL](https://twitter.com/Rohan_Handore_)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <p align="left">
 <a href="https://twitter.com/rohanhandore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanhandore" height="30" width="40" /></a>
 <a href="https://instagram.com/rohnn_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohnn_1" height="30" width="40" /></a>
