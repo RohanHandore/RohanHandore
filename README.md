@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/rohan-handore-4786b3233/)">
+  <a href="https://www.linkedin.com/in/rohan-handore-4786b3233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="[your-twitter-URL](https://twitter.com/Rohan_Handore_)">
+   <a href="https://twitter.com/Rohan_Handore_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
