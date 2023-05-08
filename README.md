@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bestanimations.com/media/computers/271184737funny-computer-matrix-animated-gif-42.gif" alt="MasterHead" style="width: 728px; height: 250px;">
+  <img src="rohan_banner.gif" alt="MasterHead" style="width: 728px; height: 250px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohan Handore</h1>
