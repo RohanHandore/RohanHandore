@@ -1,6 +1,7 @@
 <p align="center">
   <img src="rohan_banner.gif" alt="MasterHead" style="width: 728px; height: 250px;">
 </p>
+<a align="center" href="https://instagram.com/rohnn_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohnn_1" height="30" width="40" /></a>
 
 <h1 align="center">Hi 👋, I'm Rohan Handore</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
@@ -33,7 +34,6 @@
    <a href="https://twitter.com/Rohan_Handore_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<a href="https://instagram.com/rohnn_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohnn_1" height="30" width="40" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
