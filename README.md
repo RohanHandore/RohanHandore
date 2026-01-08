@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohanhandore&label=Profile%20views&color=0e75b6&style=flat" alt="rohanhandore" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanhandore&theme=matrix" alt="rohanhandore" /></a> </p>
-
 - 🔭 I’m currently working on [People I meet 💖](https://641580d60831642d711d477d--inquisitive-kringle-58ecb9.netlify.app/)
 
 - 🌱 I’m currently learning **Everything😅😂**
