@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="rohan_banner.gif" alt="MasterHead" style="width: 728px; height: 250px;">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rohan Handore</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohanhandore&label=Profile%20views&color=0e75b6&style=flat" alt="rohanhandore" /> </p>
 
